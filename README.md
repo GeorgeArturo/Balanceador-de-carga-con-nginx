@@ -1,13 +1,14 @@
 # Balanceador-de-carga-con-nginx
 Autor:
 
-Estudiante: Jorge Arturo Hernández Muñoz
-Código: A00317220
+**Estudiante: Jorge Arturo Hernández Muñoz
+
+**Código: A00317220
 
 El reto de este ejercicio era hacer un balanceador de carga, habían distintas formas de implementarse como por ejemplo apache,
 nginx etc. Yo use gnix así que para empezar tuve que instalar gnix. Prueba de instalación de gnix:
 
-**Inserte imagen aqui**
+![GitHub Logo](Imagenes/1.png)
 
 
 Una vez hecho esto lo que se hizo fue que de manera automática, se conectara con las webs y que estas se conectarán a la 
@@ -27,15 +28,15 @@ balanceador (bl).
 esta configuración incluye la ip pública, ip privada, las interfaces, la box que está usando, el nombre que se le va a dar 
 a la máquina, los cookbooks y los récipes con que debe configurarse.
 
-**Inserte imagen aqui**
+![GitHub Logo](Imagenes/4.png)
 
 A continuación se muestran como se configuraron los cookbooks (Los cookbooks estan dsponibles en este repositorio)
 
-**Inserte imagen aqui**
+![GitHub Logo](Imagenes/3.png)
 
 finalmente una prueba de funcionamiento:
 
-**Inserte gift aqui**
+![GitHub Logo](Imagenes/animacion3.gift)
 
 
 Documentación de problemas.
@@ -45,6 +46,6 @@ url que descargaba un repositorio con lo que hacía falta para realizar el balan
 lo que se hizo fue entrar al archivo de configuración y cambiar la url del repositorio así cuando se hiciera el 
 aprovisionamiento instalará los paquetes correctos.
 
-**inserte imagen aqui**
+![GitHub Logo](Imagenes/2.png)
 
 ## Todos los archivos estan disponibles en este repositorio.
