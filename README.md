@@ -36,7 +36,7 @@ A continuación se muestran como se configuraron los cookbooks (Los cookbooks es
 
 finalmente una prueba de funcionamiento:
 
-![GitHub Logo](Imagenes/animacion3.gift)
+![GitHub Logo](Imagenes/animacion3.gif)
 
 
 Documentación de problemas.
