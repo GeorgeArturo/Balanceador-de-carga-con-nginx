@@ -5,7 +5,10 @@ Autor:
 
 **Código: A00317220
 
-El reto de este ejercicio era hacer un balanceador de carga, habían distintas formas de implementarse como por ejemplo apache,
+El reto de este ejercicio era hacer un balanceador de carga que tuviera la siguiente arquitectura
+![GitHub Logo0](Imagenes/despliegue.png)
+
+habían distintas formas de implementarse como por ejemplo apache,
 nginx etc. Yo use gnix así que para empezar tuve que instalar gnix. Prueba de instalación de gnix:
 
 ![GitHub Logo](Imagenes/1.png)
@@ -47,5 +50,10 @@ lo que se hizo fue entrar al archivo de configuración y cambiar la url del repo
 aprovisionamiento instalará los paquetes correctos.
 
 ![GitHub Logo](Imagenes/2.png)
+
+
+Conclusión 
+La realización de este ejercicio fue importante porque va ligado con la arquitectura de software ya que un balanceador de carga mapea con algunos atributos de calidad como lo son el rendimiento y la disponibilidad, cosa que como ingeniero de sistemas tengo que asegurar en todas las implementaciones que haga. 
+
 
 ## Todos los archivos estan disponibles en este repositorio.
