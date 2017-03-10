@@ -1,9 +1,9 @@
 # Balanceador-de-carga-con-nginx
 Autor:
 
-**Estudiante: Jorge Arturo Hernández Muñoz
+**Estudiante: Jorge Arturo Hernández Muñoz**
 
-**Código: A00317220
+**Código: A00317220**
 
 El reto de este ejercicio era hacer un balanceador de carga que tuviera la siguiente arquitectura
 ![GitHub Logo0](Imagenes/despliegue.png)
